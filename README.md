@@ -3,7 +3,7 @@
 
 - 🏢 I’m currently working at [FC Internazionale Milano](https://inter.it)
 
-- 👨‍💻 All of my projects are available at [alessandrogaranzini.it](https://alessandrogaranzini.it)
+- 👨‍💻 My resume is available at [alessandrogaranzini.it](https://alessandrogaranzini.it)
 
 - 📫 How to reach me **info@alessandrogaranzini.it**
 
